@@ -1,0 +1,11 @@
+package com.tw5;
+
+public class DaataTypesD {
+
+	public static void main(String[] args) {
+
+		boolean ismail = true;
+		System.out.println(ismail);
+	}
+
+}

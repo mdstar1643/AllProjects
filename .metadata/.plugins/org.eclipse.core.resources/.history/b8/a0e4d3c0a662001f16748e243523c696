@@ -1,0 +1,12 @@
+package Loop;
+
+public class Main1 {
+	public static void main(String[]args)
+	{
+		Good g1=new Good();
+		System.out.println(g1.x);
+		Systme.out.println(g1.y;)
+		
+	}
+
+}

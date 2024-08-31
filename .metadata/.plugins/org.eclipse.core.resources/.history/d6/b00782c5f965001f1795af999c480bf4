@@ -1,0 +1,19 @@
+package com.tw6;
+
+public class MultiplicationTable {
+
+	public static void main(String[] args) {
+
+		int x,s=0;
+		for(x=0;x<args.length;x++)
+		{
+		s=s+Integer.parseInt(args.length[x]);
+		}
+		{
+			System.out.println(s);
+		}
+		
+	
+	}
+
+}

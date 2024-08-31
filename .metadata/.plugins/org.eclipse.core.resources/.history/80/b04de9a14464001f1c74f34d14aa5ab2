@@ -1,0 +1,17 @@
+
+public class FastProgram {
+
+	public static void main(String[] args) {
+		
+	    String name = "Imtiyaz";
+	    int id = 102;
+		int age = 21;
+		String gender = "male";
+		int salery = 20000;
+		
+		System.out.println(name);
+		
+		
+	}
+
+}

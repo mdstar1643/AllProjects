@@ -1,0 +1,14 @@
+package com.tw6;
+
+public class Looping {
+
+	public static void main(String[] args) {
+
+		int num1 = 30;
+		
+		for(int i = 31; i <= num1; i++) {
+			System.out.println(i);
+		}
+	}
+
+}

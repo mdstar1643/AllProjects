@@ -1,0 +1,16 @@
+package com.wt;
+
+public class method {
+	
+	public static void printjava() {
+		System.out.println("hello Java");
+	}
+
+	public static void main(String[] args) {
+		
+		printjava();
+		printjava();
+		printjava();
+	}
+
+}

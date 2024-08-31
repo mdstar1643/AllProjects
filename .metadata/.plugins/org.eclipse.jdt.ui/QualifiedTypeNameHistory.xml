@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="com.tw.OperatorTest"/>
+    <fullyQualifiedTypeName name="java.lang.String"/>
+    <fullyQualifiedTypeName name="cm.tw.newp.Testing"/>
+    <fullyQualifiedTypeName name="com.tw.newp2.Testing3"/>
+    <fullyQualifiedTypeName name="com.tw.newp.Testing"/>
+    <fullyQualifiedTypeName name="com.tw.newp.ParentClass"/>
+    <fullyQualifiedTypeName name="com.tw.main.ParentClass"/>
+    <fullyQualifiedTypeName name="com.tw.different.DifferentPackageChildClass"/>
+    <fullyQualifiedTypeName name="java.lang.System"/>
+    <fullyQualifiedTypeName name="com.tw.acess101.MainClass101"/>
+    <fullyQualifiedTypeName name="Package1.ParentClass"/>
+</qualifiedTypeNameHistroy>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename compilation unit &apos;LoopingTesting.Loop.java&apos; to &apos;FamilyMembers.java&apos;&#x0D;&#x0A;- Original project: &apos;AccessModifeirTest&apos;&#x0D;&#x0A;- Original element: &apos;LoopingTesting.Loop.java&apos;&#x0D;&#x0A;- Renamed element: &apos;LoopingTesting.FamilyMembers.java&apos;" description="Rename compilation unit &apos;Loop.java&apos;" flags="2" id="org.eclipse.jdt.ui.rename.compilationunit" input="/src&lt;LoopingTesting{Loop.java" name="FamilyMembers.java" references="false" stamp="1724743923718" version="1.0"/>
+</session>
